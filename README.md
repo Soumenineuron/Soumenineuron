@@ -11,7 +11,7 @@
  </div>
  
 <h1 align="center">Hi 👋, I'm Soumen Khatua</h1>
-<h3 align="center">A Passionate Data Science and Analytics learner with an M.Sc and B.Sc from India</h3>
+<h3 align="center">A Passionate Data Science and Analytics professional with an M.Sc and B.Sc from India</h3>
 <div align="center">
 <img alt="Coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
 </div>
@@ -21,7 +21,7 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning/Deep Learning**
+- 🌱 I’m currently learning **Deep Learning, NLP, LLM**
 
 - 💬 Ask me about **Python, Machine Learning, Statistics**
 
